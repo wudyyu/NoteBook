@@ -115,6 +115,63 @@
 
 ![image_138](../image_138.png)
 
+> Flink 反压监控
+
+![image_139](../image_139.png)
+
+> Flink Slot共享机制
+
+![image_140](../image_140.png)
+
+> Flink Reactive Mode动态转缩机制
+![image_141](../image_141.png)
+
+> Flink savePoint策略
+![image_142](../image_142.png)
+
+![image_143](../image_143.png)
+
+
+> Flink内存溢出OOM排查
+![image_144](../image_144.png)
+
+> Flink Checkpoint自动化故障恢复机制
+![image_145](../image_145.png)
+
+> Flink CheckPoint存储结构
+![image_146](../image_146.png)
+
+![image_147](../image_147.png)
+
+> Flink Table API查询优化
+![image_148](../image_148.png)
+
+
+> Process Function流程图
+![image_149](../image_149.png)
+
+![image_150](../image_150.png)
+
+![image_151](../image_151.png)
+
+![image_152](../image_152.png)
+
+> Flink 同步/异步
+![image_153](../image_153.png)
+
+![image_154](../image_154.png)
+
+> Flink Kubernetes 部署
+![image_155](../image_155.png)
+
+![image_156](../image_156.png)
+
+![image_157](../image_157.png)
+
+![image_158](../image_158.png)
+
+
+
 
 
 
